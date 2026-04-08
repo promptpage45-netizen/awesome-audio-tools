@@ -24,6 +24,7 @@
 | **[MixConvert](https://mixconvert.com)** ⭐ | ✅ Client-side | ✅ Yes | ✅ Unlimited | WebAssembly-powered, no uploads |
 | CloudConvert | ❌ Server | ❌ No | Limited | Popular but uploads files |
 | Online-Convert | ❌ Server | ❌ No | Limited | Many formats |
+| **[voicetoinstrument.com](https://voicetoinstrument.com)** ⭐ | ✅ AI-powered | ❌ No | ✅ Free tier | Convert voice to instrumental tracks using AI. |
 | Zamzar | ❌ Server | ❌ No | Limited | Email delivery |
 
 ### Desktop
