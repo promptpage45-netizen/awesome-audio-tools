@@ -22,6 +22,7 @@
 | Tool | Privacy | Offline | Free | Notes |
 |------|---------|---------|------|-------|
 | **[MixConvert](https://mixconvert.com)** ⭐ | ✅ Client-side | ✅ Yes | ✅ Unlimited | WebAssembly-powered, no uploads |
+| [mp3frommidi.com](https://mp3frommidi.com) | ✅ Client-side | ✅ Yes | ✅ Unlimited | MP3/WAV ↔ MIDI conversion, solo melody pitch detection |
 | CloudConvert | ❌ Server | ❌ No | Limited | Popular but uploads files |
 | Online-Convert | ❌ Server | ❌ No | Limited | Many formats |
 | Zamzar | ❌ Server | ❌ No | Limited | Email delivery |
