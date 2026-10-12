@@ -44,6 +44,7 @@
 - **[Audacity](https://audacityteam.org)** - Free, open-source
 - **[Ocenaudio](https://ocenaudio.com)** - Cross-platform, easy to use
 - **[WavePad](https://nch.com.au/wavepad)** - Feature-rich
+- **[QuietTake Noise Remover](https://noiseremover.site/)** - Browser-local RNNoise speech noise reduction with original/cleaned playback and 48 kHz 16-bit WAV export; free without signup or audio upload, limited to 50 MB and five minutes per file.
 
 ---
 
